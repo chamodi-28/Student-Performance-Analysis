@@ -5,7 +5,7 @@ This project analyzes student academic performance using Microsoft Power BI. It 
 
 ## Dashboard Screenshot
 
-![Student Performance Dashboard](docs/Screenshot.Jpg)
+![Student Performance Dashboard](docs/screenshot.JPG)
 
 ## Features
 - Total number of students
